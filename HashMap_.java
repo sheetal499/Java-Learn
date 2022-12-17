@@ -16,5 +16,7 @@ public class HashMap_ {
         for(String s:keys) {
             System.out.println(s);
         }
+        map.remove("Anshika");
+        System.out.println(map);
     }
 }
